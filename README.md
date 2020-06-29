@@ -20,6 +20,7 @@
 
 ### Prequisite Knowledge
  - What is : (*If you dont know, check the lecture slides/notes or google it.*)
+    - CSP
     - Backtracking Search
     - Arc Consistency
     - A* search algorithm
@@ -49,7 +50,16 @@
         
 
 
+### How to start
 
+1. Play around with aipython([code](ass1/aipython.zip) | [pdf](ass1/aipython.pdf)):  
+Know how to use these functions:
+  
+        from cspConsistency import Search_with_AC_from_CSP
+        from cspProblem import CSP, Constraint
+        from searchGeneric import AStarSearcher
+
+1. .....(to be finished)
 
 
 
