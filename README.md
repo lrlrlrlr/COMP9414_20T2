@@ -47,7 +47,7 @@
 1. [TextBook](https://artint.info/2e/online.html)
 1. [My Email](mailto:ruili.info@gmail.com)
 
-![My wechat](wechat.jpg =500x500)
+![My wechat](wechat.jpg)
 
 
 
