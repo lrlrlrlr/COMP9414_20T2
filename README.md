@@ -11,8 +11,8 @@
 1. [TextBook](https://artint.info/2e/online.html)
 
 
-
-
+## Assignment 1: Fuzzy Scheduling 思路
+### basic idea
 
 
 
