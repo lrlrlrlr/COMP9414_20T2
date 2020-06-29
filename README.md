@@ -45,7 +45,7 @@
 
 1. [Course domain](https://www.cse.unsw.edu.au/~cs9414/)
 1. [TextBook](https://artint.info/2e/online.html)
-1. [My Email](sendto:ruili.info@gmail.com)
+1. [My Email](mailto:ruili.info@gmail.com)
 
 
 
